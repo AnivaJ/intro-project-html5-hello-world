@@ -1,0 +1,35 @@
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.title	{
+	text-align: center;
+	background-color: lightblue;
+	padding: 10px;
+}
+
+.image {
+	max-width: 100%;
+	float: left;
+	padding: 10px;
+	overflow: auto;
+}
+
+.text {
+	padding: 10px;
+	color: red;
+	float: top;
+	overflow: auto;
+	
+}
+
+h1 {
+	color: red;
+}
+	
+
